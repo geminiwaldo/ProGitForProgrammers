@@ -6,7 +6,7 @@ int main()
 	cout << "Hello World" << endl;
 
 
-	// changing shit up
+	// changing stuff
 
 	return 0;
 }
